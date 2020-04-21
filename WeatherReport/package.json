@@ -1,0 +1,9 @@
+{
+  "name": "weather-report",
+  "version": "0.0.0",
+  "description": "WeatherReport",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
